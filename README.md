@@ -3,10 +3,15 @@
 ## Description
 
 Projet-Web is an online forum platform built with PHP. It allows users to create accounts, post discussions, and interact with the community in a web-based forum environment.
-###To note 
+
+### To note 
+
 This project had been realized in the context of an academic project in 2020 and had not been updated since then.
-###AI Personal Statement 
+
+### AI Personal Statement 
+
 No ai have been used in any way during this project.
+
 ## Features
 
 - **User Authentication**: Registration and login system
