@@ -31,7 +31,7 @@ No ai have been used in any way during this project.
 If for any reason you wish to install this, ensure you have the following installed:
 - PHP 7.4 or higher
 - Web server (Apache/Nginx)
-- MySQL or PostgreSQL database
+- MySQL or MariaDB database
 
 
 ## Installation
@@ -59,6 +59,7 @@ php -S localhost:8000
 ```
 
 5. **Access the application**
+
    - Open your browser and navigate to `http://localhost:8000`
 
 
